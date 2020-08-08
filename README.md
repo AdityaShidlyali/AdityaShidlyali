@@ -1,7 +1,7 @@
 <!--Introduction-->
 # Hello there,
 ### I am Aditya Shidlyali,:computer: *__A Tech Enthusiast.__*
-##### :books: Student of Computer Science and Engineering.
+#### :books: Student of Computer Science and Engineering.
 > :school: @ KLE College of Engineering and Technology, Chikkodi.
 
 ---
