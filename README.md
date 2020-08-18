@@ -14,6 +14,16 @@
 
 ---
 
+<!--My skills-->
+### :wrench: Programming languages syntaxed :
+* C++
+* C
+* JAVA
+* Kotlin
+* Python
+
+---
+
 <!--Competitive Programming Profiles-->
 ### :dart: My competitive programming profiles :
 * [Codechef](https://www.codechef.com/users/aditya_s_2000 "aditya_s_2000")
@@ -23,7 +33,7 @@
 
 ---
 
-### About projects :
+### :game_die: About projects :
 * :round_pushpin: Tic Tac Toe Using C language :point_right: [TicTacToe](https://github.com/AdityaShidlyali/Tic_Tac_Toe_using_C "Tic Tac Toe")
 
 ---
