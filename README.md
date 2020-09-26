@@ -42,4 +42,3 @@
 ### :e-mail: Connect with me :
 * [LinkedIn](https://www.linkedin.com/in/aditya-shidlyali/ "LinkedIn Aditya Shidlyali")
 * [Slack](https://app.slack.com/client/T010RNAAVHP/C010Q94FBGB/user_profile/U013LQE2JQ6 "Slack Aditya Shidlyali")
-* [Instagram](https://www.instagram.com/striver_adi/ "Striver Adi")
