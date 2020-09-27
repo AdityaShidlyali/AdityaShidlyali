@@ -24,12 +24,12 @@
 
 ---
 
-<!--Competitive Programming Profiles-->
-### :dart: My competitive programming profiles :
-* [Codechef](https://www.codechef.com/users/aditya_s_2000 "aditya_s_2000")
-* [Codeforces](https://codeforces.com/profile/aditya_s_2000 "aditya_s_2000")
-* [HackerRank](https://www.hackerrank.com/adi_s_2000 "adi_s_2000")
-* [HackerEarth](https://www.hackerearth.com/@adi_s_2000 "adi_s_2000")
+
+
+
+
+
+
 
 ---
 
