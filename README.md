@@ -25,10 +25,10 @@
 ---
 <!--My Projects-->
 ### :game_die: About projects :
-* Codechef: (https://www.codechef.com/users/aditya_s_2000 "Codechef")
-* Codeforces: (https://codeforces.com/profile/aditya_s_2000 "Codeforces")
-* HackerRank: (https://www.hackerrank.com/adi_s_2000 "HackerRank")
-* HackerEarth: (https://www.hackerearth.com/@adi_s_2000 "HackerEarth")
+* [Codechef](https://www.codechef.com/users/aditya_s_2000 "Codechef")
+* [Codeforces](https://codeforces.com/profile/aditya_s_2000 "Codeforces")
+* [HackerRank](https://www.hackerrank.com/adi_s_2000 "HackerRank")
+* [HackerEarth](https://www.hackerearth.com/@adi_s_2000 "HackerEarth")
 
 ---
 <!--My Projects-->
