@@ -23,7 +23,15 @@
 * Python
 
 ---
+<!--My Projects-->
+### :game_die: About projects :
+* Codechef: (https://www.codechef.com/users/aditya_s_2000 "Codechef")
+* Codeforces: (https://codeforces.com/profile/aditya_s_2000 "Codeforces")
+* HackerRank: (https://www.hackerrank.com/adi_s_2000 "HackerRank")
+* HackerEarth: (https://www.hackerearth.com/@adi_s_2000 "HackerEarth")
 
+---
+<!--My Projects-->
 ### :game_die: About projects :
 * :round_pushpin: Tic Tac Toe Using C language :point_right: [TicTacToe](https://github.com/AdityaShidlyali/Tic_Tac_Toe_using_C "Tic Tac Toe")
 
