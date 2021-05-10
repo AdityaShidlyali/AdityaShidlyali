@@ -16,10 +16,10 @@
 
 <!--My skills-->
 ### :wrench: Programming languages syntaxed :
-* C++
-* C
 * JAVA
 * Kotlin
+* C++
+* C
 * Python
 
 ---
