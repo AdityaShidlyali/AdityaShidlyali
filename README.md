@@ -1,6 +1,6 @@
 # Hi there :wave:, I am Aditya
 
-A 2023 undergrad student.
+A 2023 undergrad student with simple motto: Learn how to learn things.
 
 Languages and frameworks I explored in depth.
 
