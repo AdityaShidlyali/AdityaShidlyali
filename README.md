@@ -16,5 +16,5 @@ Languages and frameworks, I explored in depth are:
 * Covered some of the Android Jetpack Components like shared ViewModel, Navigation Component, Room DB etc.,
 * Got 36th [rank](https://www.geeksforgeeks.org/the-technical-scripter-event-by-geeksforgeeks-2/) out of 10k+ participants in Technical Scripter (2020) for the article [Introduction to Material Design in Android](https://www.geeksforgeeks.org/introduction-to-material-design-in-android/).
 
-## Reach out to me :point_down: 
+## Contact me :point_down: 
 [![image](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shidlyali/) [![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamshidlyali.com) [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaShidlyali)
