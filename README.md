@@ -14,4 +14,4 @@ Languages and frameworks i got hands on experience in depth.
 * Got 36th rank in Technical Scripter see the  for the article 
 
 ### Reach out to me :point_down: 
-[![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamshidlyali.com) [![image](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shidlyali/) [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](mailto:adityamshidlyali.com)
+[![image](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shidlyali/) [![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamshidlyali.com) [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](mailto:adityamshidlyali.com)
