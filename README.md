@@ -9,7 +9,7 @@ Languages and frameworks, I explored in depth are:
 <img src ="https://github-readme-stats.vercel.app/api?username=AdityaShidlyali&&show_icons=true&title_color=ffffff&icon_color=4BD37D&text_color=ffffff&bg_color=0D1117">
 
 ## Experience
-### Techincal Content Writer Intern [Oct 20 - Oct 21]
+### Techincal content writer intern [Oct 20 - Oct 21]
 [![image](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityamshidlyali/articles)
 * Wrote 75+ articles on android catagory.
 * Covered entire section of [material design](https://www.geeksforgeeks.org/android-tutorial/#Material%20Design) in android.
