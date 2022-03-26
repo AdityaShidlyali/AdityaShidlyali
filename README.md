@@ -1,32 +1,16 @@
-<!--Introduction-->
-# Hello there,
-### I am Aditya Shidlyali,:computer: *__A Tech Enthusiast.__*
-#### :books: Student of Computer Science and Engineering.
-> :school: @ KLE College of Engineering and Technology, Chikkodi.
+# Hi there :wave:, I am Aditya
 
----
-<!--Interests-->
-### :mag_right: Passionate about :
-* :iphone: Android development.
-* :running: Competitive Programming.
-* :guitar: Guitar.
+I am a '23 undergrad student.
 
----
-<!--My skills-->
-### :wrench: Programming languages syntaxed :
-* JAVA
-* Kotlin
-* C++
-* C
-* Python
+Languages and frameworks i got hands on experience in depth.
+![image](https://img.shields.io/badge/Kotlin-9851CB?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Android-4BD37D?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Java-DB6901?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/SpringBoot-63B341?style=for-the-badge&logo=SpringBoot&logoColor=white)
 
----
-<!--My Projects-->
-### :game_die: About projects :
-* :round_pushpin: Tic Tac Toe Using C language :point_right: [TicTacToe](https://github.com/AdityaShidlyali/Tic_Tac_Toe_using_C "Tic Tac Toe")
+## Experience
+##### Techincal Content Writer Intern [Oct 20 - Oct 21]
+* Wrote 75+ articles on android catagory profile.
+* Covered entire section of material design in android.
+* Covered some of the Android Jetpack Components like shared ViewModel, Navigation Component, Room DB etc.,
+* Got 36th rank in Technical Scripter see the  for the article 
 
----
-<!--Social Media Info-->
-### :e-mail: Connect with me :
-* [LinkedIn](https://www.linkedin.com/in/aditya-shidlyali/ "LinkedIn Aditya Shidlyali")
-* [Slack](https://app.slack.com/client/T010RNAAVHP/C010Q94FBGB/user_profile/U013LQE2JQ6 "Slack Aditya Shidlyali")
+### Reach out to me :point_down: 
+[![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamshidlyali.com) [![image](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shidlyali/) [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](mailto:adityamshidlyali.com)
