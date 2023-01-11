@@ -4,7 +4,7 @@ A 2023 undergrad student.
 
 Languages and frameworks, I explored in depth are:
 
-![image](https://img.shields.io/badge/-Kotlin-blueviolet) ![image](https://img.shields.io/badge/-Android%20SDK-green) ![image](https://img.shields.io/badge/Java-orange) ![image](https://img.shields.io/badge/SpringBoot-green)
+![image](https://img.shields.io/badge/-Kotlin-blueviolet) ![image](https://img.shields.io/badge/-Android-brightgreen) ![image](https://img.shields.io/badge/Java-orange) ![image](https://img.shields.io/badge/SpringBoot-green)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=AdityaShidlyali&&show_icons=true&title_color=ffffff&icon_color=4BD37D&text_color=ffffff&bg_color=0D1117">
 
