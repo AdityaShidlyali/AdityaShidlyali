@@ -9,14 +9,14 @@ Languages and frameworks, I explored in depth are:
 <img src ="https://github-readme-stats.vercel.app/api?username=AdityaShidlyali&&show_icons=true&title_color=ffffff&icon_color=4BD37D&text_color=ffffff&bg_color=0D1117">
 
 ## Experience
-### Android Developer Intern [Apr 22 - Jul 22 / 3 Months]
+* ### Android Developer Intern [Apr 22 - Jul 22 / 3 Months]
 #### Junior Robo Innovations Pvt. Ltd. | [PlayStore](https://play.google.com/store/apps/details?id=com.jrrobo.juniorroboapp&hl=en&gl=US)
 * Created application from scratch worked extensively on UI (included Material Design Components) of the app.
 * Integrated entire app with REST APIs provided by the backend team.
 * Used Modern Application Development practices to build the entire app, involving Jetpack components and MVVM architecture pattern.
 * Tech stack used: Android Jetpack architecture components, Retrofit2, Coil, Dagger-Hilt.
 
-### Techincal content writer intern [Oct 20 - Oct 21 / 1 Year]
+* ### Techincal content writer intern [Oct 20 - Oct 21 / 1 Year]
 #### GeeksforGeeks | [Profile](https://auth.geeksforgeeks.org/user/adityamshidlyali/articles)
 * Wrote 75+ articles on android catagory.
 * Covered entire section of [material design](https://www.geeksforgeeks.org/android-tutorial/#Material%20Design) in android.
