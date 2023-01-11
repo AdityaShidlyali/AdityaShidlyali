@@ -10,14 +10,14 @@ Languages and frameworks, I explored in depth are:
 
 ## Experience
 ### Android Developer Intern [Apr 22 - Jul 22 (3 Months)]
-### Junior Robo Innovations Pvt. Ltd. | [PlayStore](https://play.google.com/store/apps/details?id=com.jrrobo.juniorroboapp&hl=en&gl=US)
+#### Junior Robo Innovations Pvt. Ltd. | [PlayStore](https://play.google.com/store/apps/details?id=com.jrrobo.juniorroboapp&hl=en&gl=US)
 * Created application from scratch worked extensively on UI (included Material Design Components) of the app.
 * Integrated entire app with REST APIs provided by the backend team.
 * Used Modern Application Development practices to build the entire app, involving Jetpack components and MVVM architecture pattern.
 * Tech stack used: Android Jetpack architecture components, Retrofit2, Coil, Dagger-Hilt.
 
 ### Techincal content writer intern [Oct 20 - Oct 21 (1 Year)]
-### [GeeksforGeeks] | [Profile](https://auth.geeksforgeeks.org/user/adityamshidlyali/articles)
+#### GeeksforGeeks | [Profile](https://auth.geeksforgeeks.org/user/adityamshidlyali/articles)
 * Wrote 75+ articles on android catagory.
 * Covered entire section of [material design](https://www.geeksforgeeks.org/android-tutorial/#Material%20Design) in android.
 * Covered some of the Android Jetpack Components like shared ViewModel, Navigation Component, Room DB etc.,
