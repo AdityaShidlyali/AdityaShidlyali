@@ -4,7 +4,7 @@ A 2023 undergrad student.
 
 Languages and frameworks, I explored in depth are:
 
-![image](https://img.shields.io/badge/Kotlin-9851CB?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Android-4BD37D?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Java-DB6901?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Java-DB6901?style=for-the-badge&logo=springboot&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-9851CB?&style=for-the-badge&logo=kotlin&logoColor=white) ![image](https://img.shields.io/badge/Android-4BD37D?style=for-the-badge&logo=android&logoColor=white) ![image](https://img.shields.io/badge/Java-DB6901?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Spring-DB6901?style=for-the-badge&logo=springboot&logoColor=white)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=AdityaShidlyali&&show_icons=true&title_color=ffffff&icon_color=4BD37D&text_color=ffffff&bg_color=0D1117">
 
