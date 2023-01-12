@@ -6,8 +6,6 @@ Languages and frameworks, I explored in depth are:
 
 ![image](https://img.shields.io/badge/-Kotlin-blueviolet) ![image](https://img.shields.io/badge/-Android-brightgreen) ![image](https://img.shields.io/badge/Java-orange) ![image](https://img.shields.io/badge/SpringBoot-green)
 
-<img src ="https://github-readme-stats.vercel.app/api?username=AdityaShidlyali&&show_icons=true&title_color=ffffff&icon_color=4BD37D&text_color=ffffff&bg_color=0D1117">
-
 ## Experience
 ### Android Developer Intern [Apr 22 - Jul 22 / 3 Months] | Junior Robo Innovations Pvt. Ltd. | [PlayStore](https://play.google.com/store/apps/details?id=com.jrrobo.juniorroboapp&hl=en&gl=US)
 * Created application from scratch worked extensively on UI (included Material Design Components) of the app.
